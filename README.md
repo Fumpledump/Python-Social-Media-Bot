@@ -9,7 +9,7 @@ Now with this new bot I am working on I can now do all 3!
 
 Currenlty this bot supports: Discord
 
-~Some easy to answer questions~
+-Some easy to answer questions-
 
 Q: Why Python? 
 A: I chose Python because there are a lot of APIs for it and I want this bot to be able to access as many Social Media programs as possible!
