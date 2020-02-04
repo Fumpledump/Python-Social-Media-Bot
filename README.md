@@ -19,3 +19,5 @@ A: I am putting this bot on GitHub for the public because I havn't seen anyone e
 
 Q: Can I use your code?
 A: Yeah feel free to use it but just make sure to credit me.
+
+...oh by the way this bot is tailored for me so you will probably have to edit some stuff and make sure to insert the tokens, keys, and all the other stuff for the private data json and make sure you never share that stuff with anyone.
