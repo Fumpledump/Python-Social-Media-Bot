@@ -7,7 +7,7 @@ I wanted to do 3 things.
 
 Now with this new bot I am working on I can now do all 3!
 
-Currenlty this bot supports: Discord
+Currenlty this bot supports: •Discord
 
 -Some easy to answer questions-
 
