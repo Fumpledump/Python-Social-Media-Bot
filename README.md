@@ -1,7 +1,7 @@
 # Python-Social-Media-Bot
 Hello Humans of the Internet!
 I wanted to do 3 things.
-1. Authomate my social media so I can use it more efficently and have the abillity to do cool stuff in the future
+1. Automate my social media so I can use it more efficently and have the abillity to do cool stuff in the future
 2. Learn Python
 3. Learn GitHub
 
