@@ -1,6 +1,8 @@
 {
   "custom_bot_status": [],
   "random_messages": [],
+  "join_messages": [],
+  "leave_messages": [],
   "8ball_responses": [
     "It is certain.",
     "It is decidedly so.",
